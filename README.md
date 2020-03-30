@@ -11,6 +11,7 @@ CampusRun is a classic platformer where you play as a student to avoid pits and 
 - A or ArrowLeft : Left  
 - S or ArrowDown : Down  
 - D or ArrowRight : Right  
+- LAlt + Enter : Fullscreen/Windowed Toggle  
 
 
 
