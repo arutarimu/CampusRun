@@ -17,11 +17,11 @@ CampusRun is a classic platformer where you play as a student to avoid pits and 
 
 
 ## Contributers
-![Abha](https://i.imgur.com/I9vk7VK.png)
-![Angela](https://i.imgur.com/whVo3fi.png)
-![Alex](https://i.imgur.com/kww4wBK.png)
-![Larisa](https://i.imgur.com/ZTPc99T.png)
-![Ruthy](https://i.imgur.com/pPftqAh.png)  
+![](https://i.imgur.com/I9vk7VK.png)
+![](https://i.imgur.com/whVo3fi.png)
+![](https://i.imgur.com/kww4wBK.png)
+![](https://i.imgur.com/ZTPc99T.png)
+![](https://i.imgur.com/pPftqAh.png)  
 &nbsp; [Abha Sajnani](https://github.com/asajnani)&nbsp; &nbsp;&nbsp; [Angela Quan](https://github.com/Angelabowbow) 
 &nbsp;&nbsp;&nbsp; &nbsp; [Alex Kim](https://github.com/arutarimu) &nbsp; &nbsp; 
 [Larisa Kunkel](https://github.com/lkunkel3) &nbsp; &nbsp; &nbsp; &nbsp; [Ruthy Brito](https://github.com/rbrito2)
