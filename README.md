@@ -16,7 +16,7 @@ CampusRun is a classic platformer where you play as a student to avoid pits and 
 
 
 
-## Contributers
+## Contributors
 ![](https://i.imgur.com/I9vk7VK.png)
 ![](https://i.imgur.com/whVo3fi.png)
 ![](https://i.imgur.com/kww4wBK.png)
