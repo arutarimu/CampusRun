@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: f6f5223bf8eef80418f875755f08358b
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 4c485f0cba05186419a15e3d8949de98
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel.unity
+    guid: c69b80c28a0a8f24fa463374fa8286c1
+  - enabled: 1
+    path: Assets/Scenes/HardLevel.unity
+    guid: 3eb116bfebda792408cf36f4a8fc5ce2
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 9a6c2be7dc9a6124189d55642a707cb5
+  m_configObjects: {}
