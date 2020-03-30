@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/StartMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/LevelSelection.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/EasyLevel.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/HardLevel.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/CreditScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0

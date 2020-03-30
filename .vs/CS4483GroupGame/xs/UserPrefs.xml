@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D4A3CEB3-71C5-D2CD-7EB2-98F1DBECAE94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Reset.cs" Line="10" Column="6" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="24" Column="6" IsPinned="True" />
+      <File FileName="Assets/Scripts/characterControl.cs" Line="49" Column="12" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="81" Column="46" />
+      <File FileName="Assets/Scripts/level.cs" Line="10" Column="10" />
+      <File FileName="Assets/Scripts/LevelSelector.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/campusManager.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="10" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS4483GroupGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="091796d4-bca2-4aea-9a1f-ff4d0ec8f8ad" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
