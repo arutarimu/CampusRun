@@ -1,5 +1,5 @@
 # <a href="url"><img src="https://i.imgur.com/nkFvguO.png" align="right" height="48" width="48" ></a>  CampusRun
-CampusRun is a classic platformer where you play as a student to avoid pits and geese to grab what you need to survive oncampus.  
+CampusRun is a classic platformer where you play as a student to avoid pits and geese to grab what you need to survive on campus.  
 
 ## Installation  
 - Check [Releases](https://github.com/arutarimu/CampusRun/releases) for the latest stable version  
