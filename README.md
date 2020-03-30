@@ -13,7 +13,10 @@ CampusRun is a classic platformer where you play as a student to avoid pits and 
 - D or ArrowRight : Right  
 - LAlt + Enter : Fullscreen/Windowed Toggle  
 
-
+## Note
+CampusRun is currently in ***early Alpha***. This means the released version is the demo of the actual game, and because of this, there are only two levels:
+- Level 1 : relatively easy and suitable for very first level
+- Level 2 : considerably harder than Level 1 and suitable for mid-later level.  
 
 
 ## Contributors
