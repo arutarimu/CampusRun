@@ -60,6 +60,23 @@ public class PlayerMove : MonoBehaviour
         }
     }
 
+    void LevelProgress(int level)
+    {
+        if (PlayerPrefs.GetInt("reset") == 1)
+        {
+            lvlreached = 1;
+            PlayerPrefs.SetInt("reset", 0);
+        }
+
+        if (lvlreached == level)
+        {
+            lvlreached += 1;
+        }
+
+        PlayerPrefs.SetInt("levelReached", lvlreached);
+        SceneManager.LoadScene("LevelSelection");
+    }
+
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "DeathTrigger")
@@ -67,18 +84,15 @@ public class PlayerMove : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
-        else if (col.gameObject.tag == "Objective")
+        else if (col.gameObject.tag == "Sandwich")
         {
+            LevelProgress(1);
 
-            if (PlayerPrefs.GetInt("reset") == 1)
-            {
-                lvlreached = 1;
-                PlayerPrefs.SetInt("reset", 0);
-            }
+        }
+        else if (col.gameObject.tag == "Coffee")
+        {
+            LevelProgress(2);
 
-            lvlreached += 1;
-            PlayerPrefs.SetInt("levelReached", lvlreached);
-            SceneManager.LoadScene("LevelSelection");
         }
     }
 }

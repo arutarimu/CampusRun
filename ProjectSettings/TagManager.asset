@@ -6,6 +6,8 @@ TagManager:
   tags:
   - DeathTrigger
   - Objective
+  - Coffee
+  - Sandwich
   layers:
   - Default
   - TransparentFX
